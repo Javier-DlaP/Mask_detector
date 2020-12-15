@@ -35,4 +35,5 @@ Execute the `mask_detector.py` file using flag to select to execution mode:
 #### Examples:
 
 ```python mask_detector.py -c 0```
+
 ```python mask_detector.py -p image.png -s image_analized.png```
