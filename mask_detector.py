@@ -6,7 +6,7 @@ import os, sys
 import cv2
 import time
 
-PATH = Path('/home/javier/Escritorio/archive/mask_detector')
+PATH = Path('{}/development/archive/mask_detector'.format(os.getcwd()))
 learn = load_learner(PATH/'mask_detector.pkl')
 
 def main():
