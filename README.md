@@ -1,6 +1,8 @@
 # Mask_detector
 
-![](try.gif)
+Project based on a multi-face detector together with a mask detector.
+
+![](https://media.giphy.com/media/V2XWkonyXhAMk9DwGV/giphy.gif)
 
 ## Installation
 
