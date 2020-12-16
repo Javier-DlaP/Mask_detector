@@ -2,7 +2,7 @@
 
 Project based on a multi-face detector together with a mask detector.
 
-![](https://media.giphy.com/media/V2XWkonyXhAMk9DwGV/giphy.gif)
+![camera example](https://media.giphy.com/media/V2XWkonyXhAMk9DwGV/giphy.gif)
 
 ## Installation
 
@@ -30,7 +30,7 @@ Project based on a multi-face detector together with a mask detector.
 
 Execute the `mask_detector.py` file using flag to select to execution mode:
 
-- c: elect to webcam to use
+- c: select webcam to use
 - p: locate the photo to analyze
 - s: name under which the image will be save
 
