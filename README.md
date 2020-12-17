@@ -2,7 +2,7 @@
 
 Project based on a multi-face detector together with a mask detector.
 
-![camera example](https://media.giphy.com/media/V2XWkonyXhAMk9DwGV/giphy.gif)
+![camera example](example.gif)
 
 ## Installation
 
