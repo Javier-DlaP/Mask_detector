@@ -12,6 +12,7 @@ Project based on a multi-face detector together with a mask detector.
 
 ### Requirements for executing Python file
 
+- cuda 11.0
 - python 3.8.6
 - thorch 1.6.0
 - fastai 2.0.16
